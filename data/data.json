@@ -1,0 +1,233 @@
+[
+    {
+        "id": "monday_exercises",
+        "day": "Pazartesi",
+        "muscle_group": "Omuz",
+        "exercises": [
+            {
+                "id": "m1",
+                "name": "Shoulder Press Machine",
+                "set": "4x12",
+                "description": "Vücutta omuz, sırt ve kol kaslarının gelişmesi ve buna bağlı olarak vücudun şekillenmesini sağlamaktadır.",
+                "media": "public/gifs/shoulder_press_machine.gif"
+            },
+            {
+                "id": "m2",
+                "name": "Dumbell Lateral Raise",
+                "set": "4x12",
+                "description": "Hareketin çalıştırdığı bölgeler yan omuz, omuz başları ve trapez kaslarıdır.",
+                "media": "public/gifs/dumbbell_lateral_raise.gif"
+            },
+            {
+                "id": "m3",
+                "name": "Arnold Press",
+                "set": "4x12",
+                "description": "Bu hareket ikincil kas grupları olan trapez ve triceps bölgesindeki kaslarında aktif bir şekilde çalışmasını sağlamaktadır.",
+                "media": "public/gifs/arnold_press.gif"
+            },
+            {
+                "id": "m4",
+                "name": "Dumbell Front Raise",
+                "set": "4x12",
+                "description": "Bu hareket aynı zamanda up pectoralis major kasını çalıştırmaktadır.",
+                "media": "public/gifs/dumbbell_front_raise.gif"
+            },
+            {
+                "id": "m5",
+                "name": "Facepull Machine",
+                "set": "4x12",
+                "description": "Omuzlarımızı özellikle de arka omuz başlarını ve arka deltoidleri çalıştırıp güçlendirip ve dayanıklı bir hale getiren egzersizdir. Ayrıca ön kol kaslarımızı da geliştirmektedir.",
+                "media": "public/gifs/facepull.gif"
+            },
+            {
+                "id": "m6",
+                "name": "Dumbell Shrag Raise",
+                "set": "4x12",
+                "description": "Çalıştırdığı kaslar arasında en dikkat çeken trapez kasıdır hatta bu hareketin özellikle trapez kasını çalıştırmak için yapıldığı söylenebilir. Aynı zamanda boyundan aşağı doğru duran sırt kaslarını da çalıştırmaktadır.",
+                "media": "public/gifs/dumbbell_shrug.gif"
+            }
+        ]
+    },
+    {
+        "id": "wednesday_exercises",
+        "day": "Çarşamba",
+        "muscle_group": "Bacak",
+        "exercises": [
+            {
+                "id": "w1",
+                "name": "Squad",
+                "set": "4x12",
+                "description": "Squat birincil olarak vücudun en hacimli kas gruplarından biri olan ön bacak bölgesini yani quadriceps kasını, arka bacak kaslarını ve kalça kaslarını çalıştırır. ",
+                "media": "public/gifs/squat.gif"
+            },
+            {
+                "id": "w2",
+                "name": "Leg Press",
+                "set": "4x12",
+                "description": "Kişinin bacaklarını kullanarak bir ağırlık veya direnci ileri ittiği bileşik bir ağırlık antrenmanı egzersizidir.",
+                "media": "public/gifs/leg_press.gif"
+            },
+            {
+                "id": "w3",
+                "name": "Leg Extensions",
+                "set": "4x12",
+                "description": "Leg extension, bacaklardaki kuadriseps kasını hedef alan bir direnç ağırlık antrenmanı egzersizidir.",
+                "media": "public/gifs/leg_extensions.gif"
+            },
+            {
+                "id": "w4",
+                "name": "Leg Curl",
+                "set": "4x12",
+                "description": "Seated Leg curl hareketi arka bacak kaslarınızı çalıştırarak güçlenmesini ve antrenman şiddet ve programınıza göre büyümesini veya daha sıkı arka bacaklara sahip olmanızı sağlayacaktır.",
+                "media": "public/gifs/leg_curl.gif"
+            },
+            {
+                "id": "w5",
+                "name": "Leg Abduction",
+                "set": "4x12",
+                "description": "Kol, bacak, el ve ayak parmaklarının merkezden uzaklaştırılarak hareket ettirilmesi anlamına gelmektedir. ",
+                "media": "public/gifs/leg_abduction.gif"
+            },
+            {
+                "id": "w6",
+                "name": "Leg Adduction",
+                "set": "4x12",
+                "description": "Bacaklar açık halde bir yüke maruz bırakılan bu makinede, özellikle bacak kaslarının iç kısımda kalan kaslarını aktif olarak çalıştırmaktadır.",
+                "media": "public/gifs/leg_adduction.gif"
+            },
+            {
+                "id": "w7",
+                "name": "Calf",
+                "set": "4x12",
+                "description": "",
+                "media": "public/gifs/calf.gif"
+            }
+        ]
+    },
+    {
+        "id": "friday_exercises",
+        "day": "Cuma",
+        "muscle_group": "Göğüs ve Arka Kol",
+        "exercises": [
+            {
+                "id": "f1",
+                "name": "Bench Press",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f2",
+                "name": "Incline Dumbell Press",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f3",
+                "name": "Bench Dumbell Fly",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f4",
+                "name": "Chest Press",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f5",
+                "name": "Dumbell Pullover",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f6",
+                "name": "Pushdown",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f7",
+                "name": "Reverse Grip Pushdown",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "f8",
+                "name": "Rope Pushdown",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            }
+        ]
+    },
+    {
+        "id": "sunday_exercises",
+        "day": "Pazar",
+        "muscle_group": "Sırt ve Ön Kol",
+        "exercises": [
+            {
+                "id": "s1",
+                "name": "Lat Pulldown",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s2",
+                "name": "Reverse Grip Lat Pulldown",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s3",
+                "name": "Rowing Machine",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s4",
+                "name": "Cable Row",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s5",
+                "name": "Hyper Extensions",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s6",
+                "name": "Scott Curl",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s7",
+                "name": "Barberll Curl (Z Bar)",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            },
+            {
+                "id": "s8",
+                "name": "Hammer Curl",
+                "set": "4x12",
+                "description": "",
+                "media": ""
+            }
+        ]
+    }
+]
