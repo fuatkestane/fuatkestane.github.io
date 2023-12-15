@@ -113,57 +113,57 @@
                 "id": "f1",
                 "name": "Bench Press",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Birincil olarak vücudun her iki yanında birer adet bulunan pectoralis majör ve hemen altında yer alan pectoralis minör kaslarından oluşan göğüs kaslarını çalıştırır.",
+                "media": "public/gifs/bench_press.gif"
             },
             {
                 "id": "f2",
                 "name": "Incline Dumbell Press",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Göğüs kası denildiğinde akla gelmekte olan en temel vücut geliştirebilme hareketi incline dumbbell bench press olmaktadır.",
+                "media": "public/gifs/incline_dumbell_press.gif"
             },
             {
                 "id": "f3",
                 "name": "Bench Dumbell Fly",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Bench Dumbbell Fly egzersizinin ana hedefi göğüs kaslarıdır. Göğüs kasını izole bir şekilde çalıştırmak için omuz kaslarına yüklenmemek önemlidir. ",
+                "media": "public/gifs/bench_dumbell_fly.gif"
             },
             {
                 "id": "f4",
                 "name": "Chest Press",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Chest press hareketi üst vücut kısmındaki kasların gelişmesini sağlamak amacıyla en doğru yöntemlerden birisidir.",
+                "media": "public/gifs/chest_press.gif"
             },
             {
                 "id": "f5",
                 "name": "Dumbell Pullover",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Kanat ve göğüs kaslarını geliştirerek kişinin vücudunun şekillenmesini, özellikle üçgen bir görünüm kazanmasını sağlamaktadır.",
+                "media": "public/gifs/dumbbell_pullover.gif"
             },
             {
                 "id": "f6",
                 "name": "Pushdown",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Pushdown egzersizi ile arka kol bölgesinde yer alan kas yapılarının güçlendirilmesi gerçekleştirilmektedir.",
+                "media": "public/gifs/pushdown.gif"
             },
             {
                 "id": "f7",
                 "name": "Reverse Grip Pushdown",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Arka kol kası olan triceps kaslarını çalıştırmak için yapılan hareketlerdir. Bu hareketler tüm kol kaslarının gelişimini desteklerken aynı zamanda göğüs kasları üzerinde de etkisini gösterir.",
+                "media": "public/gifs/reverse_grip_pushdown.gif"
             },
             {
                 "id": "f8",
                 "name": "Rope Pushdown",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Rope pushdown hareketi ile arka kol kaslarının çalışması sağlanmaktadır. Rope pushdown hareketi, daha güçlü kollara sahip olmak için tercih edilebileceği gibi daha kalın ve görülebilir arka kol kaslarına sahip olmak içinde tercih edilebilir.",
+                "media": "public/gifs/rope_pushdown.gif"
             }
         ]
     },
@@ -176,57 +176,57 @@
                 "id": "s1",
                 "name": "Lat Pulldown",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Lat pulldown egzersizi birincil olarak kanat kası olarak bilinen latissimus dorsi sırt kasını hedefler. ",
+                "media": "public/gifs/lat_pulldown.gif"
             },
             {
                 "id": "s2",
                 "name": "Reverse Grip Lat Pulldown",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Sırt kaslarının geliştirilmesi için tercih edilen Pulldown egzersizin en etkili sahası; Latissimus Dorsi kaslarının geliştirilmesidir. Arka kanat ve omzun gelişmesi adına teres minör ve teres major kaslarının gelişmesinde yardımcı olur.",
+                "media": "public/gifs/reverse_grip_lat_pulldown.gif"
             },
             {
                 "id": "s3",
                 "name": "Rowing Machine",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Rowing tüm vücudu çalıştıran nadir hareketlerden biridir. Hızla yağ yakımı sağlamanın dışında tüm vücudu çalıştıran nadir kardiyo egzersizlerinden biridir.",
+                "media": "public/gifs/rowing_machine.gif"
             },
             {
                 "id": "s4",
                 "name": "Cable Row",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Sırt kaslarınız için temel hareketler arasında yer alan ve sırt kaslarınızın gelişiminini en doğru şekilde tamamlayan egzersizdir. Birden çok ekipman ve bir çok farklı tarz ile uygulayabileceğiniz fonksiyonel egzersizlerden biridir.",
+                "media": "public/gifs/cable_row.gif"
             },
             {
                 "id": "s5",
                 "name": "Hyper Extensions",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Sırt bölgesini en kolay şekilde geliştirebilecek başlıca egzersizler arasındadır. Vücut ağırlığını kullanarak geriye doğru çekilen mekikler, bel çevresindeki aşırı yağlanmayı engellemek dışında bu bölgenin kas gücünü artırır.",
+                "media": "public/gifs/hyperextension.gif"
             },
             {
                 "id": "s6",
                 "name": "Scott Curl",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Scott Curl hareketi üst vücudumuzda biceps bölgesini çalıştırmaktadır. Ön kol kısmında hacim olarak konsantre şekilde çalıştırmaktadır.",
+                "media": "public/gifs/scott_curl.gif"
             },
             {
                 "id": "s7",
                 "name": "Barberll Curl (Z Bar)",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Barbell biceps curl, özellikle biceps yani ön kol kaslarını çalıştıran hareketlerden biridir. Ön kol kaslarını güçlendirir ve kasların daha dayanıklı bir form almasına yardımcı olur.",
+                "media": "public/gifs/z_bar_barbell_curl.gif"
             },
             {
                 "id": "s8",
                 "name": "Hammer Curl",
                 "set": "4x12",
-                "description": "",
-                "media": ""
+                "description": "Dumbbell kullanılarak yapılan hammer curl, ön kol kaslarının gelişimini sağlayan bir direnç egzersizidir. Hareketin hedefinde brachioradialis adındaki ön kol kası vardır. En etkili vücut geliştirme egzersizidir.",
+                "media": "public/gifs/hammer_curl.gif"
             }
         ]
     }
